@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://romickkundu21.github.io/My-Portfolio/",
   "dependencies": {
     "animate.css": "^4.1.1",
     "concurrently": "^7.0.0",
