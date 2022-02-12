@@ -1,0 +1,8 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    min-height: 670px;
+    /* background-color: rgb(24, 2, 44); */
+    background: linear-gradient(90deg, rgba(48,5,79,1) 0%, rgba(7,7,89,1) 29%, rgb(8, 131, 125) 100%);
+}
