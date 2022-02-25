@@ -1,0 +1,33 @@
+li .nav__items {
+  font-size: 18px;
+  padding-bottom: 15px;
+  text-decoration: none;
+  overflow: hidden;
+}
+.header {
+    display: flex;
+    align-items: center;
+    padding:20px;
+  justify-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(48, 5, 79, 1) 0%,
+    rgba(7, 7, 89, 1) 29%,
+    rgba(10, 142, 135, 1) 100%
+  );
+}
+.navbar{
+    display:flex;
+}
+.logo_1 {
+  padding-left: 40px;
+  color: white;
+  font-size: 23px;
+}
+.navigation {
+  padding-top: 10px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
