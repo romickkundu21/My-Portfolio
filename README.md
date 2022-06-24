@@ -1,6 +1,8 @@
 # My-Portfolio   (https://romickportfolio.herokuapp.com/)
 # Getting Started with Create React App
 
+![image](https://user-images.githubusercontent.com/75901275/175509106-0d5a851f-a97e-4e45-bee7-3f99d767ceb2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
