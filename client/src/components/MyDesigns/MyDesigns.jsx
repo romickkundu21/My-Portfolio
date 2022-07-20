@@ -43,7 +43,7 @@ export default function Design(props) {
     <div className="Design-Top">
       <ScreenHeading
         title={"My Designs"}
-        subHeading={"Love to do this!"}
+        subHeading={<a href="https://www.instagram.com/rkx.ui/" target="_blank">Click here to see more designs!</a>}
       />
       <section className="design-section fade-In" id={props.id || ""}>
 
