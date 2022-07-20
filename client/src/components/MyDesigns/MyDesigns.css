@@ -1,0 +1,155 @@
+.Design-Top{
+  margin:190px 0;
+}
+.design-section {
+  padding: 80px 0px;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  z-index: -1;
+}
+.design-section::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+ 
+  /* background-color: rgb(4, 30, 104); */
+  background: linear-gradient(120deg, rgb(57, 8, 92) 30%, rgb(10, 10, 97) 100%);
+}
+.design-section img{
+  border-radius:10px;
+  /* width:400px;
+  height:400px; */
+}  
+
+.owl-carousel .nav-btn{
+    height: 47px;
+    position: absolute;
+    width: 26px;
+    cursor: pointer;
+    top: 100px !important;
+}
+
+.owl-carousel .owl-prev.disabled,
+.owl-carousel .owl-next.disabled{
+  pointer-events: none;
+  opacity: 0.2;
+}
+
+.owl-carousel .prev-slide{
+    background-color: black !important;
+    left: -33px;
+}
+.owl-carousel .next-slide{
+    background-color: black !important;
+    right: -33px;
+}
+.owl-carousel .prev-slide:hover{
+   background-position: 0px -53px;
+}
+.owl-carousel .next-slide:hover{
+  background-position: -24px -53px;
+}
+
+span.img-text {
+  text-decoration: none;
+  outline: none;
+  transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  cursor: pointer;
+  width: 100%;
+  font-size: 23px;
+  display: block;
+  text-transform: capitalize;
+}
+span.img-text:hover {
+  color: #2caae1;
+}
+
+/* .footer-image {
+  width: 100%;
+  height: 100%;
+  max-width: 1920px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  margin-top: -110px;
+}
+.footer-image img {
+  max-width: 100%;
+  height: 130px;
+} */
+/* #shape-1{
+    margin-top: -85px;
+}
+#shape-1 img{
+    transform: rotate(180deg);
+    height: 130px;
+} */
+/* .design-section .testi-item {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 40px;
+  
+} */
+
+/* .design-section .testi-item p {
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 500;
+  margin: 0 0 10px;
+  font-size: italic;
+} */
+/* .design-section .testi-item p .fa-quote-left {
+  margin-right: 5px;
+  color: cornflowerblue;
+}
+.design-section .testi-item p .fa-quote-right {
+  margin-left: 5px;
+  color: cornflowerblue;
+}
+.design-section .testi-comment .stars {
+  margin: 0 0 20px;
+}
+.design-section .testi-comment .stars li {
+  display: inline-block;
+  margin: 0 1 px;
+}
+.design-section .testi-comment .stars li i {
+  font-size: 13px;
+  color: cornflowerblue;
+} */
+/* .design-section .client-info {
+  position: relative;
+  padding-left: 80px;
+  padding-top: 5px;
+  min-height: 60px;
+} */
+/* .design-section .client-info img {
+  height: 70px;
+  width: 70px;
+  border: 2px solid transparent;
+  border-color: black;
+  left: 0;
+  top: 0;
+  border-radius: 50%;
+  position: absolute;
+} */
+/* .design-section .client-info h5 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  margin: 0 0 2px;
+}
+.design-section .client-info p {
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  margin: 0;
+} */

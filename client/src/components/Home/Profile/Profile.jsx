@@ -52,6 +52,8 @@ export default function Profile() {
                   steps={[
                     "Enthusiastic Dev ",
                     1000,
+                    "UI/UX Designer",
+                    1000,
                     "Front-End Developer",
                     1000,
                     "React Developer",

@@ -58,9 +58,7 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      I patronized Yenda and when He delivered, I honestly
-                      fell in love with him. He is a very honest guy and
-                      he delivers selfies ontime.(Just for fun)
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati debitis consequatur ut minima amet ab nulla harum aut expedita tempora.
                       <i className="fa fa-quote-right" />
                     </p>
                     <ul className="stars list-unstyled">
@@ -80,7 +78,7 @@ export default function Testimonial(props) {
                   </div>
                   <div className="client-info">
                     <img src={require('../../assets/Testimonial/lady.png')} alt="No Internet"></img>
-                    <h5>YendaURI</h5>
+                    <h5>....</h5>
                     <p>CEO Yendaland</p>
                   </div>
                 </div>
@@ -92,8 +90,7 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      I patronized Yenda and when He delivered, I honestly
-                      fell in love with his hairs. He is a Pappu.(Just for fun)
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati debitis consequatur ut minima amet ab nulla harum aut expedita tempora.
                       <i className="fa fa-quote-right" />
                     </p>
                     <ul className="stars list-unstyled">
@@ -113,7 +110,7 @@ export default function Testimonial(props) {
                   </div>
                   <div className="client-info">
                     <img src={require('../../assets/Testimonial/man.png')} alt="No Internet"></img>
-                    <h5>Yenda</h5>
+                    <h5>....</h5>
                     <p>CEO Yendaland</p>
                   </div>
                 </div>
@@ -125,9 +122,7 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      I patronized Yenda ka lenda and when He delivered, I honestly
-                      fell in love with his specs. He is a very Pappu guy and
-                      he delivers Yenda ontime.(Just for fun)
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati debitis consequatur ut minima amet ab nulla harum aut expedita tempora.
                       <i className="fa fa-quote-right" />
                     </p>
                     <ul className="stars list-unstyled">
@@ -147,7 +142,7 @@ export default function Testimonial(props) {
                   </div>
                   <div className="client-info">
                     <img src={require('../../assets/Testimonial/mike.png')} alt="No Internet"></img>
-                    <h5>Virun Shaulkalal</h5>
+                    <h5>......</h5>
                     <p>CEO Yendaland</p>
                   </div>
                 </div>
